@@ -1,3 +1,7 @@
+html {
+  overflow: auto;
+}
+
 .loader {
   left: 50%;
   position: absolute;
@@ -6,3 +10,6 @@
   width: 40px;
 }
 
+#button {
+ margin: 20px 0 0 0;
+}
